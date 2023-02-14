@@ -1,0 +1,114 @@
+.div
+{
+     
+      /* position: fixed; */
+      background-repeat: no-repeat;
+      background-size: 100%;
+      background-image: url("C:/Users/269559/Desktop/react/case-study/src/images/realistic-travel-background-with-elements_52683-77784.webp");
+       position:fixed; 
+      height:100%;
+     width: 100%;
+     margin: 0px;
+}
+  
+input[name="four"]:hover{
+    background-color: lightblue;
+    color: black;
+    font-style: bold;
+    }
+    button:hover{
+    background-color: lightblue;
+    color: black;
+    font-style: bold;
+    }
+    input[name="four"] {
+     background-color: black;
+     color:lightblue;
+    }
+    button{
+     background-color: black;
+     color:lightblue;
+    }
+    input[name="three"]:hover{
+         border:0.06cm;
+         border-style: solid;
+         background-color: lightblue;
+         border-color: black;
+         
+         box-sizing: content-box;
+       }
+
+    .p1{
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-size:xx-large;font-style: bold;
+         padding-left:0.1cm;
+      padding-top:0.09cm;
+      margin-top:280px;
+      margin-left:280px;
+      margin-bottom: 0px;
+      padding-bottom: 0px;
+      bottom: 0px;
+    /* height: 0px; */
+      
+        
+    }
+    .p2{
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-size:larger;padding-left: 200px;font-style: bold; 
+        padding-left:0.1cm;
+        top: 0px;
+      padding-top:0px;
+      margin-top:30px;
+      margin-left:480px;
+      margin-bottom: 0px;
+      padding-bottom: 0px;
+      bottom: 0px;
+    /* height: 1.8cm; */
+      
+      
+    }
+    
+    .input1{
+        width:180px;
+      
+        height: 20px;
+background-color: white;
+border-style: solid;
+border-color: black;
+color: black;
+    }
+    .p3{
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-size:large;padding-left: 205px;
+        padding-left:0.1cm;
+        padding-top:20px;
+        margin-top:0px;
+        margin-left:480px;
+        margin-bottom: 0px;
+        padding-bottom: 30px;
+        bottom: 0px;
+        /* height:1.2cm; */
+     
+    
+    }
+    .input2{
+        width:190px;
+        height: 20px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        background-color: white;
+        border-style: solid;
+        border-color: black;
+        color: black;
+        
+    }
+    .button1{
+        margin-left:300px;width: 2.2cm;height:0.8cm;font-size: medium;border-radius:5px;
+        margin-right:10px;
+        margin-left: 560px;
+        margin-top: 0px;
+        padding-top: 0px;
+    }
+    
+    .input3{
+        width: 2.2cm;height:0.8cm;font-size: medium;border-radius: 5px;
+        margin-top: 0px;
+        margin-left: 0px;
+    }

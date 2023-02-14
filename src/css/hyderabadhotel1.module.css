@@ -1,0 +1,30 @@
+button{
+    
+    background-color: azure;
+    color:brown
+}
+button:hover{
+    background-color: brown;
+    color: azure;
+}
+input{
+    background-color: white;
+    color: black;
+    
+}
+input:hover{
+    background-color:brown;
+    color:azure
+}
+textarea{
+    background-color: white;
+    color: black;
+    
+}
+textarea:hover{
+    background-color:brown;
+    color:azure
+}
+.body{
+    background-origin: unset;
+}

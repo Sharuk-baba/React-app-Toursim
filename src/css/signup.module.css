@@ -1,0 +1,88 @@
+
+.div{
+    width:600px;
+    margin-left:200px;
+    /* width: 320px ; */
+    height: 250px;
+    position: fixed;
+    padding-left:0.5cm;
+    padding-top:0.09cm;
+    margin-top:0px;
+    
+}
+.body{
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-image: url("C:/Users/269559/Desktop/react/case-study/src/images/top-view-tourist-objects-frame-with-copy-space_23-2148786099.webp");
+   height: 100%;
+   width: 100%;
+   position:fixed;
+}
+input[name="four"]:hover{
+background-color: lightblue;
+color: black;
+font-style: bold;
+}
+button:hover{
+background-color: lightblue;
+color: black;
+font-style: bold;
+
+}
+input[name="four"] {
+background-color:black;
+color:lightblue;
+}
+button{
+background-color: black;
+color:lightblue;
+}
+input[name="three"]:hover{
+border:0.06cm;
+border-style: solid;
+border-color: black;
+box-sizing: content-box;
+}
+
+.p1{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-size:xx-large;font-style: bold;margin-top:200px;margin-left:10px;width: 900px;
+}
+.p2{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-size:larger;font-style: bold;
+}
+.p3{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-size:larger;font-style: bold;
+}
+.p4{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-size:larger;font-style: bold;
+}
+.p5{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-size:larger;font-style: bold;
+}
+.p6{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-size:larger;font-style: bold;
+}
+.p7{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-size:larger;font-style: bold;
+}
+.input1{
+    width:190px;margin-left: 60px;background-color: white;height: 25px;border-style: solid;border-color: black;color: black;
+}
+.input2{
+    width:190px;margin-left:30px;background-color: white;height: 25px;border-style: solid;border-color: black;color: black;
+}
+.input3{
+    width:190px;margin-left: 28px;background-color: white;height: 25px;border-style: solid;border-color: black;color: black;
+}
+.inputnumber{
+    width:190px;margin-left: 18px;background-color: white;height: 25px;border-style: solid;border-color: black;color: black;
+}
+.input4{
+    width:190px;background-color: white;height: 25px;border-style: solid;border-color: black;color: black;
+}
+.input5{
+    width:180px;margin-left: 85px;background-color: white;height: 25px;border-style: solid;border-color: black;color: black;
+}
+button{
+    margin-left:1% ;width: 2.2cm;height:0.8cm;font-size: medium;border-radius:5px; 
+}

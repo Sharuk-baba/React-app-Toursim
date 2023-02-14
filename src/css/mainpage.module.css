@@ -1,0 +1,50 @@
+.div1{
+    margin-top:50px ;
+    margin-left: 450px;
+    /* border:0.05cm; */
+  
+    /* border-style: groove;
+    box-sizing: content-box; */
+    /* background-image:url("images/image.webp"); */
+      }
+  /* .two{
+    border:0.05cm;
+    border-top:0cm;
+    border-style: groove;
+    box-sizing: content-box;
+    height: 50px;
+    width: 280px;
+    margin-right:0px;
+    margin-left:600px;
+    margin-top: 0px;
+  } */
+  .div{
+ 
+    height:100%;
+    width: 100%;
+    background-image: url("C:/Users/269559/Desktop/react/case-study/src/images/hand-painted-watercolor-abstract-watercolor-background_23-2149005675.webp");
+   background-size: 100%;
+   background-repeat: no-repeat;
+   position:fixed;
+  
+  top:0px;
+   margin-top: 0px;
+   top: 0px;
+   padding-top: 0px;
+   margin-left: 0px;
+   margin-right: 0px;
+
+  
+  }
+  
+  
+ input:hover{
+ background-color: lightblue;
+ color: black;
+ font-style: bold;
+ }
+ input {
+  background-color: black;
+  color:lightblue;
+  margin-right: 10px;
+ }
